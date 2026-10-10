@@ -63,7 +63,7 @@ Berikut adalah penyesuaian **Kebutuhan Informasi (KI)** dari gambar agar sesuai 
 
 | Entitas | Registrasi Akun | Kelola Katalog | Buat Pesanan | Bayar Pesanan | Beri Ulasan | Rekap Laporan |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Pelanggan** | C, R | - | R | R | R | R |
+| **Anggota** | C, R | - | R | R | R | R |
 | **Kategori** | - | C, R, U, D | R | - | - | R |
 | **Buku** | - | C, R, U, D | R, U (stok) | - | R | R |
 | **Peminjaman** | - | - | C, R | R, U (status) | R | R |
