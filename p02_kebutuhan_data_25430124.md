@@ -129,7 +129,8 @@ Berikut adalah penyesuaian **Kebutuhan Non-Fungsional dan Perlindungan Data Prib
 
 Rancangan Dokumen Nota Fiktif
 
-[nota fiktif](image/ss05_nota_fiktif_124.png)
+![nota fiktif](image/ss05_nota_fiktif_124.png)
+
 
 
 ======================================================================
