@@ -1,8 +1,12 @@
 # Dokumen Kebutuhan Data Proyek: Perpustakaan
 **Penyusun:** Daffa Bima Perdana
-**NPM: ** 25430124
+
+**NPM:** 25430124
+
 **Kelas:** D  
+
 **Mata Kuliah:** Praktikum Basis Data  
+
 ---
 
 ## 1. Profil Organisasi dan lingkup Layanan
